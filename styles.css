@@ -1,0 +1,124 @@
+.top {
+  background-color: #EAF6F6;
+  padding: 1.125rem 0rem 0rem 0rem;
+  margin: 0rem;
+  position: relative;
+  height: 43rem;
+  width: 100%;
+}
+
+body {
+  background-color: #66BFBF;
+}
+
+h1 {
+  margin: auto 0rem auto 0rem;
+  position: relative;
+  margin-top: 50px;
+  top: 3rem;
+  font-family: Sacramento, sans-serif;
+  color: #66BFBF;
+}
+
+body {
+  text-align: center;
+  margin: 0rem;
+  font-family: Roboto, sans-serif;
+}
+
+.mon {
+  line-height: 2;
+  margin: auto 0rem auto 0rem;
+  font-size: 2.5rem;
+  position: absolute;
+  left: 42.5rem;
+  top: 16rem;
+  color: #66BFBF;
+}
+
+.athul {
+  height: 200px;
+  width: 200px;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 25rem;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.cloud {
+  position: absolute;
+  right: 25rem;
+}
+
+.chilli {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.intro{
+  width:25%;
+  margin:auto;
+}
+.mountain {
+  position: absolute;
+  bottom: 0rem;
+  margin: 0rem;
+  left: 30rem;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 75px;
+  border-width: 5px;
+  border-color: #EAF6F6;
+}
+
+.middle-container {
+  padding-top: 100px;
+  background-color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.bottom-container {
+  width: 50%;
+  margin: auto;
+  padding: 30px 0 0 0;
+}
+
+.mail {
+  width: 50px;
+}
